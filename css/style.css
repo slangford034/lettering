@@ -1,0 +1,40 @@
+h3 {
+  width: 300px;
+  font-size: 3em;
+  margin: 3em auto 0 auto;
+  padding: 1.5em;
+  border: 5px solid black;
+}
+
+.line1,
+.line2 {
+  display: block;
+  text-transform: uppercase;
+}
+
+.line1 {
+  text-align: center;
+}
+
+.line2 {
+  border-bottom: 5px solid black;
+  text-align: center;
+}
+
+#title {
+    text-align: center;
+    text-transform: capitalize;
+    letter-spacing: 8px;
+    font-size: 5em;
+}
+
+.char1,
+.char3,
+.char5 {
+  color: orange;
+}
+
+
+
+
+/* Main Title */
